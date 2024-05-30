@@ -14,6 +14,7 @@
 - **Judith Berner** (NSF - NCAR) [berner@ucar.edu](mailto:berner@ucar.edu)
 
 ### File Directory Path:
+To create any figure in the study please run the following notebooks: 
 
 **Figure 01:**
 - `.-|-> ./Skill_Network/Skill_CNN_Vertical_roll_anom.ipynb`
