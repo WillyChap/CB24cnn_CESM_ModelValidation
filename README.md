@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/808131207.svg)](https://zenodo.org/doi/10.5281/zenodo.11395772)
+
+
 # Repository to Create All Figures in:
 ## **_A State-Dependent Model-Error Representation for Online Climate Model Bias Correction_**
 
