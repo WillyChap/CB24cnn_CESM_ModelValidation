@@ -1,6 +1,11 @@
 [![DOI](https://zenodo.org/badge/808131207.svg)](https://zenodo.org/doi/10.5281/zenodo.11395772)
 
 
+
+![CESM Performance](Fig_01.png "Network + Performance")
+
+
+
 # Repository to Create All Figures in:
 ## **_A State-Dependent Model-Error Representation for Online Climate Model Bias Correction_**
 
